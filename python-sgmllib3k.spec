@@ -2,7 +2,7 @@
 %global pypi_name sgmllib3k
 %define version 1.0.0
 
-Name:           python3-sgmllib3k
+Name:           python-sgmllib3k
 Version:        %{version}
 Release:        1
 Group:          Development/Python
