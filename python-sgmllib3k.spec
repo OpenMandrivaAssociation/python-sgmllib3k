@@ -1,10 +1,9 @@
 # Created by pyp2rpm-3.2.2
 %global pypi_name sgmllib3k
-%define version 1.0.0
 
 Name:           python-sgmllib3k
-Version:        %{version}
-Release:        1
+Version:        1.0.0
+Release:        2
 Group:          Development/Python
 Summary:        Py3k port of sgmllib
 
@@ -36,6 +35,5 @@ rm -rf %{pypi_name}.egg-info
 
 %files
 %doc
-%{python_sitelib}/__pycache__/*
 %{python_sitelib}/sgmllib.py
-%{python_sitelib}/%{pypi_name}-%{version}-py?.?.egg-info
+%{python_sitelib}/%{pypi_name}-%{version}-py*.*.egg-info
