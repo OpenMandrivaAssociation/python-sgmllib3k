@@ -3,7 +3,7 @@
 
 Name:           python-sgmllib3k
 Version:        1.0.0
-Release:        2
+Release:        3
 Group:          Development/Python
 Summary:        Py3k port of sgmllib
 
