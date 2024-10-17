@@ -8,7 +8,7 @@ Group:          Development/Python
 Summary:        Py3k port of sgmllib
 
 License:        BSD License
-URL:            http://hg.hardcoded.net/sgmllib
+URL:            https://hg.hardcoded.net/sgmllib
 Source0:        https://files.pythonhosted.org/packages/source/s/%{pypi_name}/%{pypi_name}-%{version}.tar.gz
 BuildArch:      noarch
 
